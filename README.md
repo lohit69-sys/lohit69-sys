@@ -1,5 +1,13 @@
+## 💫 About Me
 
-# 💫 About Me<br><br>* 👋 Hi, I'm **Bandi Lohit**<br>* 🎓 B.Tech Computer Science and Engineering Graduate (2026)<br>* 💻 Software Developer | MERN Stack Developer<br>* 📊 Interested in Data Analytics and Artificial Intelligence<br>* 🌱 Currently learning Machine Learning, MLOps, and Cloud Computing<br>* 🚀 Passionate about building full-stack web applications and solving real-world problems<br>* 🤝 Open to internships, entry-level software roles, and collaboration opportunities<br>* 📫 Reach me at: **[bandisailohit@gmail.com](mailto:bandisailohit@gmail.com)**<br>
+- 👋 Hi, I'm **Bandi Lohit**
+- 🎓 B.Tech Computer Science and Engineering Graduate (2026)
+- 💻 Software Developer | MERN Stack Developer
+- 📊 Interested in Data Analytics and Artificial Intelligence
+- 🌱 Currently learning Machine Learning, MLOps, and Cloud Computing
+- 🚀 Passionate about building full-stack web applications
+- 🤝 Open to internships and entry-level software roles
+- 📫 **Email:** bandisailohit@gmail.com
 
 
 ## 🌐 Socials:
